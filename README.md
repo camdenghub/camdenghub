@@ -36,7 +36,7 @@ I love programming and writing APIs.
 <details closed>
 <summary>Specialties</summary>
 <div align="center">
-	Kernel, Multi Threading, Game Reversal, Memory Hacking, DirectX
+	Kernel, Multi Threading, Game Reversal, Memory Hacking, DirectX and OpenGL
 </div>
 </details>
 
