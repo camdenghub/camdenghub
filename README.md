@@ -13,14 +13,14 @@ I love programming and writing APIs.
 <hr />
 
 <details open>
-<summary>Langues</summary>
+<summary>Languages</summary>
 <div align="center">
 <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" width="30" height="50"/>
 <img src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50">
 <img src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" width="50">
 <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" width="50">
-
+<img src="https://miro.medium.com/max/600/1*i2skbfmDsHayHhqPfwt6pA.png" width="50">
 </div>
 </details>
 
