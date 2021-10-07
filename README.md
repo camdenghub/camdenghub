@@ -1,4 +1,4 @@
-<h1 align="center">Camden</h1>
+<h1 align="center">Camden | camdenghub</h1>
 <div align="center">
 </div>
 <br />
@@ -21,6 +21,8 @@ I love programming and writing APIs.
 <img src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" width="50">
 <img src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" width="50">
 <img src="https://miro.medium.com/max/600/1*i2skbfmDsHayHhqPfwt6pA.png" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="50">
 </div>
 </details>
 
